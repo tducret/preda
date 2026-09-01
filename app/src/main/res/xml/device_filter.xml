@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Infiray T2L-A4L USB-C thermal camera -->
+    <usb-device vendor-id="5396" product-id="1" />
+</resources>

@@ -1,0 +1,65 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.navigation/
+captures/
+output.json
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / signing
+.env
+.env.*
+*.key
+*.p12
+*.pem
+*.pfx
+*.jks
+*.keystore
+credentials*.json
+service-account*.json
+google-services.json
+signing.properties
+secrets.properties
+
+# Kotlin
+.kotlin/
+
+# Local SDK / JDK used for CI verification
+.android-sdk/
+.jdk/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
